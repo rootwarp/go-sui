@@ -1,4 +1,6 @@
 *.swp
 *.swo
 
+cover.out
+
 .DS_Store
