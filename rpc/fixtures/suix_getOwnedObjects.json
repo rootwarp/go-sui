@@ -1,0 +1,38 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "data": [
+      {
+        "data": {
+          "objectId": "0x00e4b300b42d5ef9b2b8c140f3fdf4215c0879243cadf077cf95532880eacb5f",
+          "version": "1814281",
+          "digest": "HzZrCMvFp9gmpbTchniYPa3zwVJupC1fngqCzVfb8fTC"
+        }
+      },
+      {
+        "data": {
+          "objectId": "0x00eddef0ba7134b3fe9db43ea2ac8b23c88a2b55df445a8d8673e4009891bc08",
+          "version": "1814281",
+          "digest": "5Tbf7pFNQQowWvt6KXYKNdMqDp83UaEK1wckQJJ65orf"
+        }
+      },
+      {
+        "data": {
+          "objectId": "0x9e9e7dee919fd45a69338a1c33cbb16f8696d83ed56abca6035f36fdb58a4dc4",
+          "version": "317741",
+          "digest": "Hr8ePf2JhFiEqkTJVHPHB36FruvZ5XcSnni6oiLgDRKy"
+        }
+      },
+      {
+        "data": {
+          "objectId": "0xb46977347544f524d544f0f17a73249eca933c12e55c1e8247e46fa299882626",
+          "version": "3601625",
+          "digest": "HmJL2UuU7vwnena5G1C5Y2dCwiTREKN8C6nxp9FKhNkx"
+        }
+      }
+    ],
+    "nextCursor": "0xb46977347544f524d544f0f17a73249eca933c12e55c1e8247e46fa299882626",
+    "hasNextPage": false
+  },
+  "id": 1
+}
